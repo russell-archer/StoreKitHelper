@@ -1,0 +1,248 @@
+{
+  "appPolicies" : {
+    "eula" : "",
+    "policies" : [
+      {
+        "locale" : "en_US",
+        "policyText" : "",
+        "policyURL" : "https://russell-archer.github.io/privacy/"
+      }
+    ]
+  },
+  "identifier" : "BE743F6F",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "39.99",
+      "familyShareable" : true,
+      "internalID" : "C4C2FDFD",
+      "localizations" : [
+        {
+          "description" : "A large bunch of seasonale flowers",
+          "displayName" : "Large flowers",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.rarcher.nonconsumable.flowers.large",
+      "referenceName" : "flowers-large",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "29.99",
+      "familyShareable" : true,
+      "internalID" : "39D8A389",
+      "localizations" : [
+        {
+          "description" : "A small bunch of seasonale flowers",
+          "displayName" : "Small flowers",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.rarcher.nonconsumable.flowers.small",
+      "referenceName" : "flowers-small",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "11.99",
+      "familyShareable" : true,
+      "internalID" : "836CBBBE",
+      "localizations" : [
+        {
+          "description" : "A small box of chocolates",
+          "displayName" : "Small chocolates",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.rarcher.nonconsumable.chocolates.small",
+      "referenceName" : "chocolates-small",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "21.99",
+      "familyShareable" : true,
+      "internalID" : "FAADEDE0",
+      "localizations" : [
+        {
+          "description" : "A large box of chocolates",
+          "displayName" : "Large chocolates",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.rarcher.nonconsumable.chocolates.large",
+      "referenceName" : "chocolates-large",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "19.99",
+      "familyShareable" : true,
+      "internalID" : "8014D296",
+      "localizations" : [
+        {
+          "description" : "A large bunch of red roses",
+          "displayName" : "Large roses",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.rarcher.nonconsumable.roses.large",
+      "referenceName" : "roses-large",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_failTransactionsEnabled" : false,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_storeKitErrors" : [
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Load Products"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Purchase"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Verification"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Store Sync"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Subscription Status"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Transaction"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Manage Subscriptions Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Refund Request Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Offer Code Redeem Sheet"
+      }
+    ]
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "EAF164DF",
+      "localizations" : [
+
+      ],
+      "name" : "VIP",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "21.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "A53A1491",
+          "introductoryOffer" : {
+            "internalID" : "4D9C308E",
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P2W"
+          },
+          "localizations" : [
+            {
+              "description" : "4 in-person visits a month to service your plants",
+              "displayName" : "Gold VIP service",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.rarcher.subscription.vip.gold",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "gold",
+          "subscriptionGroupID" : "EAF164DF",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : [
+
+          ]
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "15.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "1DDECB93",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "2 in-person visits a month to service your plants",
+              "displayName" : "Silver VIP service",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.rarcher.subscription.vip.silver",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "silver",
+          "subscriptionGroupID" : "EAF164DF",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : [
+
+          ]
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "10.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "FA2CF223",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "1 in-person visit a month to service your plants",
+              "displayName" : "Bronze VIP service",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.rarcher.subscription.vip.bronze",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "bronze",
+          "subscriptionGroupID" : "EAF164DF",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : [
+
+          ]
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 4,
+    "minor" : 0
+  }
+}

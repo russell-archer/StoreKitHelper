@@ -1,6 +1,6 @@
 //
 //  StoreConstants.swift
-//  StoreHelper
+//  StoreKitHelper
 //
 //  Created by Russell Archer on 12/07/2024.
 //

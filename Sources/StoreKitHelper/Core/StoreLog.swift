@@ -1,8 +1,8 @@
 //
 //  StoreLog.swift
-//  StoreHelper
+//  StoreKitHelper
 //
-//  Created by Russell Archer on 06/07/2024.
+//  Created by Russell Archer on 12/07/2024.
 //
 
 import Foundation

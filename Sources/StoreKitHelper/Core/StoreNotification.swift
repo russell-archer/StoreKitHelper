@@ -1,4 +1,11 @@
-/// Informational logging notifications issued by StoreHelper
+//
+//  StoreNotification.swift
+//  StoreKitHelper
+//
+//  Created by Russell Archer on 12/07/2024.
+//
+
+/// Informational logging notifications issued by StoreKitHelper
 public enum StoreNotification: Error, Equatable {
     
     case configurationNotFound
